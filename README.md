@@ -37,24 +37,6 @@ The main objective is to demonstrate how formal languages, regular expressions, 
 | Pushdown Automata | Nested structure validation |
 | Graph Theory | Document hierarchy and relationship analysis |
 
-## Project Structure
-
-```text
-academic-validation-system/
-├── main.py
-├── ui/
-├── core/
-├── tests/
-├── docs/
-├── README.md
-└── .gitignore
-```
-
-## Requirements
-
-- Python 3
-- Tkinter
-
 ## Execution
 
 Once the application is implemented, run the following command from the project directory:
@@ -75,8 +57,8 @@ In development.
 
 ## Authors
 
+- Melanie Alba Diez
 - Frieda María Ortiz López
-- Second team member
 
 ## Academic Information
 
